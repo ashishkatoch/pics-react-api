@@ -49,5 +49,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ![alt text](src/preview.png)
 
 ### Used UnsplashPi 
-I have fetched images from the api in the followiong link:
+I have fetched images from the api in the following link:
 (https://unsplash.com/)
