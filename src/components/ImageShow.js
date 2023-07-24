@@ -1,4 +1,4 @@
-function ImageShow() {
-    return (<div><h1>ImageShow</h1></div>);
+function ImageShow({id,image}) {
+    return (<li className="image"><img key={id} src={image} alt={id}></img></li>);
 }
 export default ImageShow;

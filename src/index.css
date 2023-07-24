@@ -1,0 +1,21 @@
+.image-list {
+    display: flex;
+    flex-wrap: wrap;
+    columns: 6 200px;
+    column-gap: 10px;
+}
+li.image {
+    list-style: none;
+    margin-bottom: 10px;
+}
+.image img {
+    width: 100%;
+}
+input.searchBar {
+    border: 0px;
+    background: #8080801c;
+    padding: 5px 6px;
+    border-radius: 6px;
+    margin-left: 5px;
+    margin-bottom: 12px;
+}
